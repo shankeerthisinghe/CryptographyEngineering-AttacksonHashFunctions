@@ -2,7 +2,7 @@
 AttacksOnHashFunctions
 
  
-CA3 - Attacks on Hash Functions
+====Attacks on Hash Functions====
 
 Question 2
 
